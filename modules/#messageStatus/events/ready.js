@@ -27,7 +27,7 @@ class EventClass {
     main() {
         this._client.user.setActivity({
             name: this._config.message,
-            type: "WATCHING"
+            type: "PLAYING"
         })
     }
 }
