@@ -1,4 +1,4 @@
-# Tetrix bot using base-bot-modulable
+# Tetrix bot using base-bot-modulable (v1)
 ```Flymeth x DevNetwork```
 
 ---
